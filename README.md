@@ -31,4 +31,4 @@ The results of the models are documented in the notebook. We compare the perform
 
 Contributions are welcome! If you have suggestions for improvements or new features, please submit a pull request or open an issue.
 
-Thank you for checking out the AirBNB House Price Prediction Project. We hope you find it useful and informative! If you have any questions or feedback, feel free to reach out. Happy coding!
+Thank you for checking out the AirBNB House Price Prediction Project. I hope you find it useful and informative! If you have any questions or feedback, feel free to reach out. Happy coding!
